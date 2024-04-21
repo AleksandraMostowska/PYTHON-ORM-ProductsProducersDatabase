@@ -1,0 +1,19 @@
+{
+  "producers": [
+    {
+      "id": 1,
+      "name": "A",
+      "country": "PL"
+    },
+    {
+      "id": 2,
+      "name": "B",
+      "country": "UK"
+    },
+    {
+      "id": 3,
+      "name": "C",
+      "country": "USA"
+    }
+  ]
+}
